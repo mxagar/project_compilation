@@ -5,7 +5,7 @@ This repository compiles some of the projects I have worked on.
 For more related information, you can visit:
 
 - My **website/blog**: [mikelsagardia.io](https://mikelsagardia.io)
-- The list of **courses** I have undertaken, with my notes & code: [github.com/mxagar/project_compilation](https://github.com/mxagar/project_compilation)
+- The list of **courses** I have undertaken, with my notes & code: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 - The list of my **research papers**: [mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
 
 ## Table of Contents
