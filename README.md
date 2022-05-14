@@ -10,16 +10,23 @@ For more related information, you can visit:
 
 ## Table of Contents
 
+- Public Research Projects
 - Course-Related Projects
 - Other Personal Projects
-- Public Research Projects
 - [Course Certificates](https://github.com/mxagar/project_compilation)
+
+## Public Research Projects
+
+- Realtime Collision Avoidance for Mechanisms with Complex Geometries
+- Multimodal Evaluation of the Differences between Real and Virtual Assemblies
+- A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments
+- Narrow Passage Sampling in the Observation of Robotic Assembly Tasks
+- VR-OOS: The DLR’s Virtual Reality Simulator for Telerobotic On-Orbit Servicing With Haptic Feedback
+- A New Fast and Robust Collision Detection and Force Computation Algorithm Applied to the Physics Engine Bullet: Method, Integration, and Evaluation
+- Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality
 
 ## Course-Related Projects
 
-- Writing a Data Science Blog Post
-- Upload a Package to PyPi
-- Deploy a Data Dashboard
 - Disaster Response Pipeline
 - Starbucks
 - Recommendation Engines
@@ -39,13 +46,8 @@ For more related information, you can visit:
 
 ## Other Personal Projects
 
+- [datamix.ai](https://datamix.ai)
+- [machinevision.academy](https://machinevision.academy)
 
-## Public Research Projects
 
-- Realtime Collision Avoidance for Mechanisms with Complex Geometries
-- Multimodal Evaluation of the Differences between Real and Virtual Assemblies
-- A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments
-- Narrow Passage Sampling in the Observation of Robotic Assembly Tasks
-- VR-OOS: The DLR’s Virtual Reality Simulator for Telerobotic On-Orbit Servicing With Haptic Feedback
-- A New Fast and Robust Collision Detection and Force Computation Algorithm Applied to the Physics Engine Bullet: Method, Integration, and Evaluation
-- Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality
+
