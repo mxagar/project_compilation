@@ -30,7 +30,7 @@ For more related information, you can visit:
 - A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering. [LINK](https://mikelsagardia.io/blog/data-processing-guide.html).
 - Predicting Customer Churn with *Clean Code* Conventions. [LINK](https://github.com/mxagar/mlops_udacity/tree/main/01_Clean_Code/Project_1_Customer_Churn).
 - Dog Breed Classification with Deep Convolutional Neural Networks (CNNs) and Transfer Learning. [LINK](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification).
-- Skin Cancer Detection with Deep Convolutional Neural Networks (CNNs) and Transfer Learning. [LINK](https://github.com/mxagar/skin_cancer_detection).
+- Skin Cancer Detection with Deep Convolutional Neural Networks (CNNs) and Transfer Learning. [LINK](https://github.com/mxagar/dermatologist-ai).
 - A Boilerplate of Reproducible and Deployable Machine Learning Pipeline with MLflow and Weights & Biases and Its Application to Song Genre Classification. [LINK](https://github.com/mxagar/music_genre_classification).
 
 - Image Captioning with a Combination of CNNs and RNNs
