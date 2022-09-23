@@ -24,18 +24,18 @@ For more related information, you can visit:
 
 ## Some Side Projects
 
-- Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs). [LINK](https://github.com/mxagar/P1_Facial_Keypoints).
-- Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy. [LINK](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing).
-- Analysis and Modelling of the AirBnB Dataset from the Basque Country. [LINK](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html).
-- A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering. [LINK](https://mikelsagardia.io/blog/data-processing-guide.html).
-- Predicting Customer Churn with *Production-Level* Code. [LINK](https://github.com/mxagar/customer_churn_production).
-- Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning. [LINK](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification).
-- Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations. [LINK](https://github.com/mxagar/dermatologist-ai).
-- A Boilerplate of Reproducible and Deployable Machine Learning Pipeline with MLflow and Weights & Biases and Its Application to Song Genre Classification. [LINK](https://github.com/mxagar/music_genre_classification).
+- Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs). [GITHUB](https://github.com/mxagar/P1_Facial_Keypoints).
+- Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy. [GITHUB](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing).
+- Analysis and Modelling of the AirBnB Dataset from the Basque Country. [BLOG](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html). [GITHUB](https://github.com/mxagar/airbnb_data_analysis).
+- A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering. [BLOG](https://mikelsagardia.io/blog/data-processing-guide.html). [GITHUB](https://github.com/mxagar/eda_fe_summary).
+- A Template Package to Transform Machine Learning Research Notebooks into *Production-Level* Code and Its Application to Predicting Customer Churn. [BLOG](https://mikelsagardia.io/blog/machine-learning-production-level.html). [GITHUB](https://github.com/mxagar/customer_churn_production).
+- Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning. [GITHUB](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification).
+- Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations. [GITHUB](https://github.com/mxagar/dermatologist-ai).
+- A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification. [GITHUB](https://github.com/mxagar/music_genre_classification).
 
 - Image Captioning with a Combination of CNNs and RNNs
-- ML Pipeline for Short-term Rental Prices in NYC
 - Generating TV Scripts
+- ML Pipeline for Short-term Rental Prices in NYC
 - Disaster Response Pipeline
 - Starbucks
 - Recommendation Engines
