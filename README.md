@@ -33,19 +33,6 @@ For more related information, you can visit:
 - Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations. [GITHUB](https://github.com/mxagar/dermatologist-ai).
 - A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification. [GITHUB](https://github.com/mxagar/music_genre_classification).
 
-- Image Captioning with a Combination of CNNs and RNNs
-- Generating TV Scripts
-- ML Pipeline for Short-term Rental Prices in NYC
-- Disaster Response Pipeline
-- Starbucks
-- Recommendation Engines
-- Deploying a Sentiment Analysis Model
-- 2D Histogram Filter
-- Landmark Detection & Tracking (SLAM)
-- Deploying a Machine Learning Model on Heroku with FastAPI
-- A Dynamic Risk Assessment System
-- Housing agent
-- Collision Detection Library
 
 ## Other Projects
 
