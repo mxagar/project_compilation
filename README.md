@@ -32,6 +32,7 @@ For more related information, you can visit:
 - Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning. [GITHUB](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification).
 - Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations. [GITHUB](https://github.com/mxagar/dermatologist-ai).
 - A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification. [GITHUB](https://github.com/mxagar/music_genre_classification).
+- Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch. [GITHUB](https://github.com/mxagar/detection_segmentation_pytorch).
 
 
 ## Other Projects
