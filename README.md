@@ -57,7 +57,7 @@ This is a list of some repositories in which I collected notes for my future sel
 - Natural Language Processing (NLP) Guide, Udemy: [Guide & Code](https://github.com/mxagar/nlp_guide) | [Course Link](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | :star: :star: :star: :star: __
 - Notes on Reinforcement Learning, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | [Course Link](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | :star: :star: :star: __ __
 - SQL Guide, Udemy: [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | :star: :star: :star: :star: __
-
+- Docker Guide, Udemy: [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | [Course Link](https://www.udemy.com/course/docker-mastery/) | :star: :star: :star: :star: __
 
 ## Other Projects
 
