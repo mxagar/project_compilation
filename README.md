@@ -4,7 +4,7 @@ This repository compiles links to some of the projects I have worked on or I am 
 
 - [Public Research Projects](#Some-Public-Research-Projects)
 - [Side Projects](#Some-Side-Projects)
-- [Some of My Guides on Specific Topics](#Some-of-My-Guides-on-Specific-Topics)
+- [Some of My Guides on AI MOOCs and Books](#Some-of-My-Guides-on-AI-MOOCs-and-Books)
 - [Other Projects](#Other-Projects)
 
 For more related information, you can visit:
@@ -27,7 +27,7 @@ For more related information, you can visit:
 
 ## Some Side Projects
 
-Please, note that these are some of *side* projects, which might or might not be finished; in any case, the project status should be reported in each project page.
+Please, note that these are some of my *side* projects, which might or might not be finished; in any case, the project status should be reported in each project page.
 
 - Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs): [Github](https://github.com/mxagar/P1_Facial_Keypoints).
 - Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy: [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing).
@@ -40,24 +40,24 @@ Please, note that these are some of *side* projects, which might or might not be
 - Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch: [Github](https://github.com/mxagar/detection_segmentation_pytorch).
 - Text Sentiment Analysis: A Collection of Notes and Examples: [Github](https://github.com/mxagar/text_sentiment).
 
-## Some of My Guides on Specific Topics
+## Some of My Guides on AI MOOCs and Books
 
-This is a list of some repositories in which I collected notes for my future self while following courses/books. Note that, in many cases the text is perfectly legible, but not edited; additionally, the original notes on a course/book might have been extended with other sources.
+This is a list of some repositories in which I collected notes for my future self while following courses/books. Note that in many cases the text is perfectly legible, but not edited; additionally, the original notes on a course/book might have been extended with other sources. For a complete list of the courses I have followed (with or without public notes), visit [my course compilation](https://github.com/mxagar/course_compilation).
 
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
 - Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | :star: :star: :star: :star: __
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | :star: :star: :star: :star: __
 - Machine Learning DevOps Engineer Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/mlops_udacity) | [Course Link](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | :star: :star: :star: :star: :star:
 - IBM Machine Learning Professional Certificate, Coursera / IBM: [Guide & Code](https://www.coursera.org/professional-certificates/ibm-machine-learning) | [Course Link](https://github.com/mxagar/machine_learning_ibm) | :star: :star: :star: :star: __
-- Machine Learning, Coursera / Standford: [Guide & Code](https://github.com/mxagar/machine_learning_coursera) | [Course Link](https://www.coursera.org/learn/machine-learning) | :star: :star: :star: :star: :star:
+- Machine Learning, Coursera / Univ. Standford: [Guide & Code](https://github.com/mxagar/machine_learning_coursera) | [Course Link](https://www.coursera.org/learn/machine-learning) | :star: :star: :star: :star: :star:
 - Statistics with Python Specialization, Coursera / Uni. Michigan: [Guide & Code](https://github.com/mxagar/statistics_with_python_coursera) | [Course Link](https://www.coursera.org/specializations/statistics-with-python) | :star: :star: :star: __ __
+- Accelerated Computer Science Fundamentals Specialization, Coursera / Univ. Illinois: [Guide & Code](https://github.com/mxagar/accelerated_computer_science_coursera) | [Course Link](https://www.coursera.org/specializations/cs-fundamentals) | :star: :star: :star: __ __
+- Machine Vision: Theory and Applications, Steger et al.: [Guide & Code](https://github.com/mxagar/machine_vision_notes) | [Book Link](https://www.amazon.com/Machine-Vision-Algorithms-Applications-Carsten/dp/3527413650) | :star: :star: :star: :star: :star:
+- Notes on Manipulation Robotics, Craig: [Guide](https://github.com/mxagar/robotics_notes) | [Book Link](https://www.amazon.com/Introduction-Robotics-Mechanics-Control-4th/dp/0133489795/ref=sr_1_1?crid=2Q39F2ZXG1D2W&keywords=Introduction+to+Robotics&qid=1664796958&qu=eyJxc2MiOiIyLjYyIiwicXNhIjoiMi42OCIsInFzcCI6IjMuMDkifQ%3D%3D&sprefix=introduction+to+robotics%2Caps%2C144&sr=8-1) | :star: :star: :star: :star: __ 
 - Natural Language Processing (NLP) Guide, Udemy: [Guide & Code](https://github.com/mxagar/nlp_guide) | [Course Link](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | :star: :star: :star: :star: __
-- SQL Guide, Udemy: [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | :star: :star: :star: :star: __
 - Notes on Reinforcement Learning, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | [Course Link](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | :star: :star: :star: __ __
-- Accelerated Computer Science Fundamentals Specialization, Coursera: [Guide & Code](https://github.com/mxagar/accelerated_computer_science_coursera) | [Course Link](https://www.coursera.org/specializations/cs-fundamentals) | :star: :star: :star: __ __
-- Docker - Swarm - Kubernetes, Udemy: [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | [Course Link](https://www.udemy.com/course/docker-mastery/) | :star: :star: :star: :star: __
-- Notes on Accounting, Coursera: [Guide & Code](https://github.com/mxagar/foundations_management_iese_coursera) | [Course Link](https://www.coursera.org/learn/financial-accounting?specialization=foundations-management) | :star: :star: :star: :star: __
-- Machine Vision: Theory and Applications: [Guide & Code](https://github.com/mxagar/machine_vision_notes) | [Book Link](https://www.amazon.com/Machine-Vision-Algorithms-Applications-Carsten/dp/3527413650) | :star: :star: :star: :star: :star:
+- SQL Guide, Udemy: [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | :star: :star: :star: :star: __
+
 
 ## Other Projects
 
