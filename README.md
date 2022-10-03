@@ -40,7 +40,7 @@ Please, note that these are some of *side* projects, which might or might not be
 
 ## Some of My Guides on Specific Topics
 
-- Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
+- Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: __ __ 
 - Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 - Machine Learning DevOps Engineer Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/mlops_udacity) | [Course Link](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821).
