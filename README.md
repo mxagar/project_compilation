@@ -39,7 +39,7 @@ Please, note that these are some of my *side* projects, which might or might not
 - A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification: [Github](https://github.com/mxagar/music_genre_classification).
 - Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch: [Github](https://github.com/mxagar/detection_segmentation_pytorch).
 - Text Sentiment Analysis: A Collection of Notes and Examples: [Github](https://github.com/mxagar/text_sentiment).
-- Text Generation: TV Script Creation with a Recursive Neural Network (RNN): [Github](https://github.com/mxagar/text_generator).
+- Text Generation: TV Script Creation with a Recurrent Neural Network (RNN): [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html) | [Github](https://github.com/mxagar/text_generator).
 - Image Captioning: Image Description Text Generator Combining CNNs, RNNs and Attention: [Github](https://github.com/mxagar/image_captioning).
 
 
