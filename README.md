@@ -42,7 +42,8 @@ Please, note that these are some of my *side* projects, which might or might not
 - Text Generation: TV Script Creation with a Recurrent Neural Network (RNN): [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html) | [Github](https://github.com/mxagar/text_generator).
 - Image Captioning: Image Description Text Generator Combining CNNs and RNNs: [Github](https://github.com/mxagar/image_captioning).
 - A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City: [Github](https://github.com/mxagar/ml_pipeline_rental_prices).
-
+- Face Generation with a Convolutional Generative Adversarial Network (GAN): [Github](https://github.com/mxagar/face_generator_gan).
+- Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [slam_2d](https://github.com/mxagar/slam_2d)
 
 ## Some of My Guides on AI MOOCs and Books
 
