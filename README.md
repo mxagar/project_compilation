@@ -14,8 +14,9 @@ For more related information, you can visit:
 - My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
 - A list of **repositories on books and courses I have followed**: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 
+If you’d like to contact me for any kind of <mark style="background-color: #FFFF00">professional collaboration</mark>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
 
-## Some Public Research Projects
+## :mortar_board: Some Public Research Projects
 
 - Realtime Collision Avoidance for Robots with Arbitrary Geometries: [Video](https://youtu.be/OqWwkPrrcII) | [Paper](https://ieeexplore.ieee.org/document/8446527).
 - A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments: [Video](https://youtu.be/marxNRb4e-c) | [Paper](https://dl.acm.org/doi/10.1145/2993369.2993386).
@@ -25,7 +26,7 @@ For more related information, you can visit:
 - Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality: [Video](https://youtu.be/1yoU1f_zwiY) | [Paper](https://ieeexplore.ieee.org/document/6907142).
 - Narrow Passage Sampling in the Observation of Robotic Assembly Tasks: [Paper](https://ieeexplore.ieee.org/abstract/document/7487125).
 
-## Some Side Projects
+## :soccer: Some Side Projects
 
 Please, note that these are some of my *side* projects, which might or might not be finished; in any case, the project status should be reported in each project page.
 
@@ -45,7 +46,7 @@ Please, note that these are some of my *side* projects, which might or might not
 - Face Generation with a Convolutional Generative Adversarial Network (GAN): [Github](https://github.com/mxagar/face_generator_gan).
 - Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d)
 
-## Some of My Guides on AI MOOCs and Books
+## :books: Some of My Guides on AI MOOCs and Books
 
 This is a list of some repositories in which I collected notes for my future self while following courses/books. Note that in many cases the text is perfectly legible, but not edited; additionally, the original notes on a course/book might have been extended with other sources. For a complete list of the courses I have followed (with or without public notes), visit [my course compilation](https://github.com/mxagar/course_compilation).
 
@@ -64,7 +65,7 @@ This is a list of some repositories in which I collected notes for my future sel
 - SQL Guide, Udemy: [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | :star: :star: :star: :star: __
 - Docker Guide, Udemy: [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | [Course Link](https://www.udemy.com/course/docker-mastery/) | :star: :star: :star: :star: __
 
-## Other Projects
+## :space_invader: Other Projects
 
 - [datamix.ai](https://datamix.ai)
 - [machinevision.academy](https://machinevision.academy)
