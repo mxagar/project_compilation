@@ -14,9 +14,7 @@ For more related information, you can visit:
 - My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
 - A list of **repositories on books and courses I have followed**: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 
-If you’d like to contact me for any kind of <span style="background-color: #FFF933">professional collaboration</span>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
-
-If you’d like to contact me for any kind of <mark>professional collaboration</mark>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
+If you’d like to contact me for any kind of **professional collaboration**, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
 
 ## :mortar_board: Some Public Research Projects
 
