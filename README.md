@@ -16,6 +16,8 @@ For more related information, you can visit:
 
 If you’d like to contact me for any kind of <span style="background-color: #FFF933">professional collaboration</span>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
 
+If you’d like to contact me for any kind of <mark>professional collaboration</mark>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
+
 ## :mortar_board: Some Public Research Projects
 
 - Realtime Collision Avoidance for Robots with Arbitrary Geometries: [Video](https://youtu.be/OqWwkPrrcII) | [Paper](https://ieeexplore.ieee.org/document/8446527).
