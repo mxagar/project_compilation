@@ -14,7 +14,7 @@ For more related information, you can visit:
 - My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
 - A list of **repositories on books and courses I have followed**: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 
-If you’d like to contact me for any kind of <mark style="background-color: #FFFF00">professional collaboration</mark>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
+If you’d like to contact me for any kind of <div style="background-color: #FFFF00">professional collaboration</div>, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
 
 ## :mortar_board: Some Public Research Projects
 
@@ -54,7 +54,7 @@ This is a list of some repositories in which I collected notes for my future sel
 - Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | :star: :star: :star: :star: __
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | :star: :star: :star: :star: __
 - Machine Learning DevOps Engineer Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/mlops_udacity) | [Course Link](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | :star: :star: :star: :star: :star:
-- IBM Machine Learning Professional Certificate, Coursera / IBM: [Guide & Code](https://www.coursera.org/professional-certificates/ibm-machine-learning) | [Course Link](https://github.com/mxagar/machine_learning_ibm) | :star: :star: :star: :star: __
+- IBM Machine Learning Professional Certificate, Coursera / IBM: [Guide & Code](https://github.com/mxagar/machine_learning_ibm) | [Course Link](https://www.coursera.org/professional-certificates/ibm-machine-learning) | :star: :star: :star: :star: __
 - Machine Learning, Coursera / Univ. Standford: [Guide & Code](https://github.com/mxagar/machine_learning_coursera) | [Course Link](https://www.coursera.org/learn/machine-learning) | :star: :star: :star: :star: :star:
 - Statistics with Python Specialization, Coursera / Uni. Michigan: [Guide & Code](https://github.com/mxagar/statistics_with_python_coursera) | [Course Link](https://www.coursera.org/specializations/statistics-with-python) | :star: :star: :star: __ __
 - Accelerated Computer Science Fundamentals Specialization, Coursera / Univ. Illinois: [Guide & Code](https://github.com/mxagar/accelerated_computer_science_coursera) | [Course Link](https://www.coursera.org/specializations/cs-fundamentals) | :star: :star: :star: __ __
