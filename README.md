@@ -1,4 +1,4 @@
-# Mikel Sagardia - Project Portfolio
+# Mikel Sagardia %mdash; Project Portfolio
 
 This repository compiles links to some of the projects I have worked on or I am currently working on:
 
@@ -6,15 +6,7 @@ This repository compiles links to some of the projects I have worked on or I am 
 - [Side Projects](#Some-Side-Projects)
 - [Some of My Guides on AI MOOCs and Books](#Some-of-My-Guides-on-AI-MOOCs-and-Books)
 - [Other Projects](#Other-Projects)
-
-For more related information, you can visit:
-
-- My **website/blog**: [mikelsagardia.io](https://mikelsagardia.io)
-- The list of my **research papers**: [mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
-- My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
-- A list of **repositories on books and courses I have followed**: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
-
-If you’d like to contact me for any kind of **professional collaboration**, don’t hesitate: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
+- [Contact and Other Information](#Contact-and-Other-Information)
 
 ## :mortar_board: Some Public Research Projects
 
@@ -69,4 +61,15 @@ This is a list of some repositories in which I collected notes for my future sel
 
 - [datamix.ai](https://datamix.ai)
 - [machinevision.academy](https://machinevision.academy)
+
+## :envelope: Contact and Other Information
+
+For **professional collaboration**, you can find me at: [sagardia.mikel@gmail.com](mailto:sagardia.mikel@gmail.com).
+
+For more information, you can visit:
+
+- My **website/blog**: [mikelsagardia.io](https://mikelsagardia.io)
+- The list of my **research papers**: [mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
+- My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
+- A list of **repositories on books and courses I have followed**: [github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 
