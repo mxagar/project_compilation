@@ -1,9 +1,9 @@
-# Mikel Sagardia %mdash; Project Portfolio
+# Mikel Sagardia - Project Portfolio
 
 This repository compiles links to some of the projects I have worked on or I am currently working on:
 
-- [Public Research Projects](#Some-Public-Research-Projects)
-- [Side Projects](#Some-Side-Projects)
+- [Public Research Projects](#:mortar_board:-Some-Public-Research-Projects)
+- [Side Projects](#:soccer:-Some-Side-Projects)
 - [Some of My Guides on AI MOOCs and Books](#Some-of-My-Guides-on-AI-MOOCs-and-Books)
 - [Other Projects](#Other-Projects)
 - [Contact and Other Information](#Contact-and-Other-Information)
