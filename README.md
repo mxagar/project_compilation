@@ -17,6 +17,7 @@ This repository compiles links to some of the projects I have worked on or I am 
 - Multimodal Evaluation of the Differences between Real and Virtual Assemblies: [Video](https://youtu.be/En_IXwSNVco) | [Paper](https://ieeexplore.ieee.org/document/8013101).
 - Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality: [Video](https://youtu.be/1yoU1f_zwiY) | [Paper](https://ieeexplore.ieee.org/document/6907142).
 - Narrow Passage Sampling in the Observation of Robotic Assembly Tasks: [Paper](https://ieeexplore.ieee.org/abstract/document/7487125).
+- My PhD Thesis: *Virtual Manipulations with Force Feedback in Complex Interaction Scenarios* : [Dissertation](https://mediatum.ub.tum.de/?id=1463136).
 
 ## Some Side Projects
 
@@ -37,6 +38,7 @@ Please, note that these are some of my *side* projects, which might or might not
 - A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City: [Github](https://github.com/mxagar/ml_pipeline_rental_prices).
 - Face Generation with a Convolutional Generative Adversarial Network (GAN): [Github](https://github.com/mxagar/face_generator_gan).
 - Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d)
+- Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker: [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment)
 
 ## Some of My Guides on AI MOOCs and Books
 
