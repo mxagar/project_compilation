@@ -37,8 +37,8 @@ Please, note that these are some of my *side* projects, which might or might not
 - Image Captioning: Image Description Text Generator Combining CNNs and RNNs: [Github](https://github.com/mxagar/image_captioning).
 - A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City: [Github](https://github.com/mxagar/ml_pipeline_rental_prices).
 - Face Generation with a Convolutional Generative Adversarial Network (GAN): [Github](https://github.com/mxagar/face_generator_gan).
-- Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d)
-- Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker: [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment)
+- Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d).
+- Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker: [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment).
 
 ## Some of My Guides on AI MOOCs and Books
 
