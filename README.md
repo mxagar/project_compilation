@@ -39,6 +39,8 @@ Please, note that these are some of my *side* projects, which might or might not
 - Face Generation with a Convolutional Generative Adversarial Network (GAN): [Github](https://github.com/mxagar/face_generator_gan).
 - Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d).
 - Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker: [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment).
+- American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs): [Github](https://github.com/mxagar/asl_alphabet_image_classification)
+
 
 ## Some of My Guides on AI MOOCs and Books
 
