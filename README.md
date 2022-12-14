@@ -38,7 +38,7 @@ Please, note that these are some of my *side* projects, which might or might not
 | Text Generation: TV Script Creation with a Recurrent Neural Network (RNN) | [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html), [Github](https://github.com/mxagar/text_generator) | Text | RNN, Text Generation | Pytorch |
 | Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images, Text | CNN, RNN, Image Captioning | Pytorch |
 | A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City | [Github](https://github.com/mxagar/ml_pipeline_rental_prices) | Tabular | MLOps, Regression | Scikit-Learn, MLflow, Weights & Biases |
-| Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images | CNN, GAN | Pytorch |
+| Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images | GAN, CNN | Pytorch |
 | Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular, Spatio-Temporal | SLAM | Numpy |
 | Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text | MLOps, RNN, Classification, Sentiment Analysis | AWS SageMaker, API Gateway, Lambda, Pytorch |
 | American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/asl_alphabet_image_classification) | Images | CNN, Classification, Transfer Learning, Autoencoders | Tensorflow/Keras |
