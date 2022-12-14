@@ -2,11 +2,12 @@
 
 This repository compiles links to some of the projects I have worked on or I am currently working on:
 
-- [:mortar_board: Public Research Projects](#Some-Public-Research-Projects)
-- [:soccer: Side Projects](#Some-Side-Projects)
-- [:books: Some of My Guides on AI MOOCs and Books](#Some-of-My-Guides-on-AI-MOOCs-and-Books)
-- [:space_invader: Other Projects](#Other-Projects)
-- [:envelope: Contact and Other Information](#Contact-and-Other-Information)
+- [Mikel Sagardia - Project Portfolio](#mikel-sagardia---project-portfolio)
+  - [Some Public Research Projects](#some-public-research-projects)
+  - [Some Side Projects](#some-side-projects)
+  - [Some of My Guides on AI MOOCs and Books](#some-of-my-guides-on-ai-moocs-and-books)
+  - [Other Projects](#other-projects)
+  - [Contact and Other Information](#contact-and-other-information)
 
 ## Some Public Research Projects
 
@@ -23,6 +24,28 @@ This repository compiles links to some of the projects I have worked on or I am 
 
 Please, note that these are some of my *side* projects, which might or might not be finished; in any case, the project status should be reported in each project page.
 
+| Topic / Project | Link | Type of Data | Methods | Tools |
+|---|---|---|---|---|
+| Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Images | CNN, Regression | Pytorch |
+| Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Tabular | MLP, Regression | Numpy |
+| Analysis and Modelling of the AirBnB Dataset from the Basque Country | [Blog](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html), [Github](https://github.com/mxagar/airbnb_data_analysis) | Tabular, Text | Regression, Classification | Scikit-Learn |
+| A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular, Text | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
+| A Template Package to Transform Machine Learning Research Notebooks into *Production-Level* Code and Its Application to Predicting Customer Churn | [Blog](https://mikelsagardia.io/blog/machine-learning-production-level.html), [Github](https://github.com/mxagar/customer_churn_production) | Tabular | Classification, Clean Code, MLOps | Python Packaging |
+| Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification) | Images | CNN, Classification, Transfer Learning | Pytorch |
+| Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations | [Github](https://github.com/mxagar/dermatologist-ai) | Images | CNN, Classification, Autoencoders, Manifold Learning | Pytorch, Scikit-Learn |
+| A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification | [Github](https://github.com/mxagar/music_genre_classification) | Tabular | Classification, Random Forests, MLOps | Scikit-Learn, MLflow, Weights & Biases |
+| Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch | [Github](https://github.com/mxagar/detection_segmentation_pytorch) | Images | *Compilation*: Object Detection & Segmentation | Pytorch |
+| Text Sentiment Analysis: A Collection of Notes and Example | [Github](https://github.com/mxagar/text_sentiment) | Text | *Compilation*: Sentiment Analysis | Pytorch |
+| Text Generation: TV Script Creation with a Recurrent Neural Network (RNN) | [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html), [Github](https://github.com/mxagar/text_generator) | Text | RNN, Text Generation | Pytorch |
+| Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images, Text | CNN, RNN, Image Captioning | Pytorch |
+| A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City | [Github](https://github.com/mxagar/ml_pipeline_rental_prices) | Tabular | Regression, MLOps | Scikit-Learn, MLflow, Weights & Biases |
+| Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images | CNN, GAN | Pytorch |
+| Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular, Spatio-Temporal | SLAM | Numpy |
+| Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text | RNN, Classification, Sentiment Analysis | Pytorch, AWS SageMaker, API Gateway, Lambda |
+| American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/asl_alphabet_image_classification) | Images | CNN, Classification, Transfer Learning, Autoencoders | Tensorflow/Keras |
+
+<!-- |  |  |  |  |  | -->
+<!--
 - Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs): [Github](https://github.com/mxagar/P1_Facial_Keypoints).
 - Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy: [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing).
 - Analysis and Modelling of the AirBnB Dataset from the Basque Country: [Blog](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html) | [Github](https://github.com/mxagar/airbnb_data_analysis).
@@ -40,7 +63,7 @@ Please, note that these are some of my *side* projects, which might or might not
 - Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach: [Github](https://github.com/mxagar/slam_2d).
 - Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker: [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment).
 - American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs): [Github](https://github.com/mxagar/asl_alphabet_image_classification)
-
+-->
 
 ## Some of My Guides on AI MOOCs and Books
 
