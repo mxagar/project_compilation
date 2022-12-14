@@ -25,24 +25,30 @@ Please, note that these are some of my *side* projects, which might or might not
 
 | Topic / Project | Link | Type of Data | Methods | Tools |
 |---|---|---|---|---|
-| Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images | GAN, CNN | Pytorch |
-| Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images, Text | CNN, RNN, Image Captioning | Pytorch |
-| Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Images | CNN, Regression | Pytorch |
-| Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations | [Github](https://github.com/mxagar/dermatologist-ai) | Images | CNN, Classification, Autoencoders, Manifold Learning | Pytorch, Scikit-Learn |
-| Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification) | Images | CNN, Classification, Transfer Learning | Pytorch |
-| American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/asl_alphabet_image_classification) | Images | CNN, Classification, Transfer Learning, Autoencoders | Tensorflow/Keras |
-| Analysis and Modelling of the AirBnB Dataset from the Basque Country | [Blog](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html), [Github](https://github.com/mxagar/airbnb_data_analysis) | Tabular, Text | Regression, Classification | Scikit-Learn |
-| A Template Package to Transform Machine Learning Research Notebooks into *Production-Level* Code and Its Application to Predicting Customer Churn | [Blog](https://mikelsagardia.io/blog/machine-learning-production-level.html), [Github](https://github.com/mxagar/customer_churn_production) | Tabular | MLOps, Classification, Clean Code | Python Packaging |
-| A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification | [Github](https://github.com/mxagar/music_genre_classification) | Tabular | MLOps, Classification, Random Forests | Scikit-Learn, MLflow, Weights & Biases |
-| A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City | [Github](https://github.com/mxagar/ml_pipeline_rental_prices) | Tabular | MLOps, Regression | Scikit-Learn, MLflow, Weights & Biases |
-| Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text | MLOps, RNN, Classification, Sentiment Analysis | AWS SageMaker, API Gateway, Lambda, Pytorch |
-| Text Generation: TV Script Creation with a Recurrent Neural Network (RNN) | [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html), [Github](https://github.com/mxagar/text_generator) | Text | RNN, Text Generation | Pytorch |
-| Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular, Spatio-Temporal | SLAM | Numpy |
-| Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing) | Tabular | MLP, Regression | Numpy |
-| A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular, Text | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
-| Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch | [Github](https://github.com/mxagar/detection_segmentation_pytorch) | Images | *Compilation*: Object Detection & Segmentation | Pytorch |
-| Text Sentiment Analysis: A Collection of Notes and Example | [Github](https://github.com/mxagar/text_sentiment) | Text | *Compilation*: Sentiment Analysis | Pytorch |
+| Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images :city_sunrise: | GAN, CNN | Pytorch |
+| Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images :city_sunrise:, Text :page_facing_up: | CNN, RNN, Image Captioning | Pytorch |
+| Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Images :city_sunrise: | CNN, Regression | Pytorch |
+| Skin Cancer Detection with Convolutional Neural Networks (CNNs) and T-SNE Visualization of Compressed Image Representations | [Github](https://github.com/mxagar/dermatologist-ai) | Images :city_sunrise: | CNN, Classification, Autoencoders, Manifold Learning | Pytorch, Scikit-Learn |
+| Dog Breed Classification with Convolutional Neural Networks (CNNs) and Transfer Learning | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-dog-classification) | Images :city_sunrise: | CNN, Classification, Transfer Learning | Pytorch |
+| American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/asl_alphabet_image_classification) | Images :city_sunrise: | CNN, Classification, Transfer Learning, Autoencoders | Tensorflow/Keras |
+| Analysis and Modelling of the AirBnB Dataset from the Basque Country | [Blog](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html), [Github](https://github.com/mxagar/airbnb_data_analysis) | Tabular :bar_chart:, Text :page_facing_up: | Regression, Classification | Scikit-Learn |
+| A Template Package to Transform Machine Learning Research Notebooks into *Production-Level* Code and Its Application to Predicting Customer Churn | [Blog](https://mikelsagardia.io/blog/machine-learning-production-level.html), [Github](https://github.com/mxagar/customer_churn_production) | Tabular :bar_chart: | MLOps, Classification, Clean Code | Python Packaging |
+| A Boilerplate for Reproducible Machine Learning Pipelines with MLflow and Weights & Biases and Its Application to Song Genre Classification | [Github](https://github.com/mxagar/music_genre_classification) | Tabular :bar_chart: | MLOps, Classification, Random Forests | Scikit-Learn, MLflow, Weights & Biases |
+| A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City | [Github](https://github.com/mxagar/ml_pipeline_rental_prices) | Tabular :bar_chart: | MLOps, Regression | Scikit-Learn, MLflow, Weights & Biases |
+| Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text :page_facing_up: | MLOps, RNN, Classification, Sentiment Analysis | AWS SageMaker, API Gateway, Lambda, Pytorch |
+| Text Generation: TV Script Creation with a Recurrent Neural Network (RNN) | [Blog](https://mikelsagardia.io/blog/text-generation-rnn.html), [Github](https://github.com/mxagar/text_generator) | Text :page_facing_up: | RNN, Text Generation | Pytorch |
+| Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular :bar_chart:, Spatio-Temporal  :robot: | SLAM | Numpy |
+| Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing) | Tabular :bar_chart: | MLP, Regression | Numpy |
+| A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular :bar_chart:, Text :page_facing_up: | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
+| Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch | [Github](https://github.com/mxagar/detection_segmentation_pytorch) | Images :city_sunrise: | *Compilation*: Object Detection & Segmentation | Pytorch |
+| Text Sentiment Analysis: A Collection of Notes and Example | [Github](https://github.com/mxagar/text_sentiment) | Text :page_facing_up: | *Compilation*: Sentiment Analysis | Pytorch |
 
+<!-- 
+Text :page_facing_up: :page_facing_up:
+Tabular :bar_chart: :bar_chart:
+Images :city_sunrise: :city_sunrise: :city_sunrise:
+Spatio-Temporal :robot:
+-->
 <!-- |  |  |  |  |  | -->
 <!--
 - Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs): [Github](https://github.com/mxagar/P1_Facial_Keypoints).
