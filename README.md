@@ -40,7 +40,7 @@ Please, note that these are some of my *side* projects, which might or might not
 | A Reproducible Machine Learning Pipeline for Short-Term Rental Price Prediction in New York City | [Github](https://github.com/mxagar/ml_pipeline_rental_prices) | Tabular | MLOps, Regression | Scikit-Learn, MLflow, Weights & Biases |
 | Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images | CNN, GAN | Pytorch |
 | Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular, Spatio-Temporal | SLAM | Numpy |
-| Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text | MLOps, RNN, Classification, Sentiment Analysis | Pytorch, AWS SageMaker, API Gateway, Lambda |
+| Deployment of a Sentiment Analysis Recurrent Neural Network (RNN) Using AWS SageMaker | [Github](https://github.com/mxagar/sentiment_rnn_aws_deployment) | Text | MLOps, RNN, Classification, Sentiment Analysis | AWS SageMaker, API Gateway, Lambda, Pytorch |
 | American Sign Language (ASL) Image Analysis and Classification with Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/asl_alphabet_image_classification) | Images | CNN, Classification, Transfer Learning, Autoencoders | Tensorflow/Keras |
 
 <!-- |  |  |  |  |  | -->
