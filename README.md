@@ -26,7 +26,7 @@ Please, note that these are some of my *side* projects, which might or might not
 | Topic / Project | Link | Type of Data | Methods | Tools |
 |---|---|---|---|---|
 | Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Images | CNN, Regression | Pytorch |
-| Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Tabular | MLP, Regression | Numpy |
+| Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing) | Tabular | MLP, Regression | Numpy |
 | Analysis and Modelling of the AirBnB Dataset from the Basque Country | [Blog](https://mikelsagardia.io/blog/airbnb-spain-basque-data-analysis.html), [Github](https://github.com/mxagar/airbnb_data_analysis) | Tabular, Text | Regression, Classification | Scikit-Learn |
 | A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular, Text | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
 | A Template Package to Transform Machine Learning Research Notebooks into *Production-Level* Code and Its Application to Predicting Customer Churn | [Blog](https://mikelsagardia.io/blog/machine-learning-production-level.html), [Github](https://github.com/mxagar/customer_churn_production) | Tabular | MLOps, Classification, Clean Code | Python Packaging |
