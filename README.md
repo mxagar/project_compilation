@@ -2,12 +2,11 @@
 
 This repository compiles links to some of the projects I have worked on or I am currently working on:
 
-- [Mikel Sagardia - Project Portfolio](#mikel-sagardia---project-portfolio)
-  - [Some Public Research Projects](#some-public-research-projects)
-  - [Some Side Projects](#some-side-projects)
-  - [Some of My Guides on AI MOOCs and Books](#some-of-my-guides-on-ai-moocs-and-books)
-  - [Other Projects](#other-projects)
-  - [Contact and Other Information](#contact-and-other-information)
+- :mortar_board: [Some Public Research Projects](#some-public-research-projects)
+- :soccer: [Some Side Projects](#some-side-projects)
+- :books: [Some of My Guides on AI MOOCs and Books](#some-of-my-guides-on-ai-moocs-and-books)
+- :space_invader: [Other Projects](#other-projects)
+- :mailbox: [Contact and Other Information](#contact-and-other-information)
 
 ## Some Public Research Projects
 
