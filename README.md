@@ -134,8 +134,7 @@ This repository compiles links to some of the projects I have worked on or I am 
         My PhD Thesis: <em>Virtual Manipulations with Force Feedback in Complex Interaction Scenarios</em>
     </td>
     <td width=40>
-        <a href="https://mediatum.ub.tum.de/?id=1463136">Video</a>,
-        <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
+        <a href="https://mediatum.ub.tum.de/?id=1463136">Dissertation</a>
     </td>
     <td>
         <p align="center">
