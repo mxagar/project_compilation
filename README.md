@@ -10,6 +10,137 @@ This repository compiles links to some of the projects I have worked on or I am 
 
 ## Some Public Research Projects
 
+<table>
+<tr>
+    <td width=180>
+        Realtime Collision Avoidance for Robots with Arbitrary Geometries
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/OqWwkPrrcII">Video</a>,
+        <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/OqWwkPrrcII">
+            <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/marxNRb4e-c">Video</a>,
+        <a href="https://dl.acm.org/doi/10.1145/2993369.2993386">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/marxNRb4e-c">
+            <img src="./assets/sagardia_car_assembly.jpg" alt="Virtual Car Assembly">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        VR-OOS: The DLR’s Virtual Reality Simulator for Telerobotic On-Orbit Servicing With Haptic Feedback
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/D9Jbew5Zmpw">Video</a>,
+        <a href="https://ieeexplore.ieee.org/document/7119040">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/D9Jbew5Zmpw">
+            <img src="./assets/sagardia_space_justin_vroos.jpg" alt="Real and Virtual Robotic Satellite Maintenance">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        Realtime Physics Simulations with Fast and Robust Collision Detection and Force Computation Integrated to Bullet
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/Fsb0f1t4IbE">Video</a>,
+        <a href="https://diglib.eg.org/handle/10.2312/eurovr.20141341.065-076">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/Fsb0f1t4IbE">
+            <img src="./assets/sagardia_bunny_teapot_datastrucs.jpg" alt="Real Time Collision Computation Physics">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        Multimodal Evaluation of the Differences between Real and Virtual Assemblies
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/En_IXwSNVco">Video</a>,
+        <a href="https://ieeexplore.ieee.org/document/8013101">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/En_IXwSNVco">
+            <img src="./assets/sagardia_vr_vs_reality.jpg" alt="Virtual vs. Real Assemblies User Study">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality
+    </td>
+    <td width=40>
+        <a href="https://youtu.be/1yoU1f_zwiY">Video</a>,
+        <a href="https://ieeexplore.ieee.org/document/6907142">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://youtu.be/1yoU1f_zwiY">
+            <img src="./assets/sagardia_ultrapiano.jpg" alt="The Ultrapiano: Hand Manipulation with Ultrasound">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=180>
+        Narrow Passage Sampling in the Observation of Robotic Assembly Tasks
+    </td>
+    <td width=40>
+        <a href="https://ieeexplore.ieee.org/abstract/document/7487125">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://ieeexplore.ieee.org/abstract/document/7487125">
+            <img src="./assets/sagardia_peginhole_sequence.jpg" alt="Robot Assemblies with Support Online Simulations">
+            </a>
+        </p>
+    </td>
+</tr>
+<tr>
+    <td width=160>
+        My PhD Thesis: <em>Virtual Manipulations with Force Feedback in Complex Interaction Scenarios</em>
+    </td>
+    <td width=40>
+        <a href="https://mediatum.ub.tum.de/?id=1463136">Video</a>,
+        <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
+    </td>
+    <td>
+        <p align="center">
+            <a href="https://mediatum.ub.tum.de/?id=1463136">
+            <img src="./assets/sagardia_phd_summary.jpg" alt="PhD Thesis">
+            </a>
+        </p>
+    </td>
+</tr>
+</table>
+
+<!--
 - Realtime Collision Avoidance for Robots with Arbitrary Geometries: [Video](https://youtu.be/OqWwkPrrcII) | [Paper](https://ieeexplore.ieee.org/document/8446527).
 - A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments: [Video](https://youtu.be/marxNRb4e-c) | [Paper](https://dl.acm.org/doi/10.1145/2993369.2993386).
 - VR-OOS: The DLR’s Virtual Reality Simulator for Telerobotic On-Orbit Servicing With Haptic Feedback: [Video](https://youtu.be/D9Jbew5Zmpw) | [Paper](https://ieeexplore.ieee.org/document/7119040).
@@ -18,6 +149,7 @@ This repository compiles links to some of the projects I have worked on or I am 
 - Ultrapiano: A Novel Human-Machine Interface Applied to Virtual Reality: [Video](https://youtu.be/1yoU1f_zwiY) | [Paper](https://ieeexplore.ieee.org/document/6907142).
 - Narrow Passage Sampling in the Observation of Robotic Assembly Tasks: [Paper](https://ieeexplore.ieee.org/abstract/document/7487125).
 - My PhD Thesis: *Virtual Manipulations with Force Feedback in Complex Interaction Scenarios* : [Dissertation](https://mediatum.ub.tum.de/?id=1463136).
+-->
 
 ## Some Side Projects
 
