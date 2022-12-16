@@ -12,14 +12,14 @@ This repository compiles links to some of the projects I have worked on or I am 
 
 <table>
 <tr>
-    <td width=200>
+    <td width=500>
         Realtime Collision Avoidance for Robots with Arbitrary Geometries
     </td>
     <td width=100>
         <a href="https://youtu.be/OqWwkPrrcII">Video</a>,
         <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
     </td>
-    <td width=500>
+    <td width=250>
         <p align="center">
             <a href="https://youtu.be/OqWwkPrrcII">
             <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG"
@@ -29,10 +29,10 @@ This repository compiles links to some of the projects I have worked on or I am 
     </td>
 </tr>
 <tr>
-    <td width=180>
+    <td>
         A Platform for Bimanual Virtual Assembly Training with Haptic Feedback in Large Multi-Object Environments
     </td>
-    <td width=40>
+    <td>
         <a href="https://youtu.be/marxNRb4e-c">Video</a>,
         <a href="https://dl.acm.org/doi/10.1145/2993369.2993386">Paper</a>
     </td>
