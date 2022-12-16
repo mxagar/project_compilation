@@ -19,7 +19,7 @@ This repository compiles links to some of the projects I have worked on or I am 
         <a href="https://youtu.be/OqWwkPrrcII">Video</a>,
         <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
     </td>
-    <td width=300>
+    <td width=500>
         <p align="center">
             <a href="https://youtu.be/OqWwkPrrcII">
             <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG"
