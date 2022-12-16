@@ -259,7 +259,7 @@ For **professional collaboration**, you can find me at: [sagardia.mikel@gmail.co
 For more information, you can visit:
 
 - My **website/blog**: [https://mikelsagardia.io](https://mikelsagardia.io)
-- The list of my **research papers**: [https://mikelsagardia.io/publications/](https://mikelsagardia.io/publications/)
-- My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io)
+- The list of my **research papers**: [https://mikelsagardia.io/publications](https://mikelsagardia.io/publications)
+- My **resumé**: [https://mikelsagardia.io/cv](https://mikelsagardia.io/assets/MikelSagardia_CV_2022.pdf)
 - A list of **repositories on books and courses I have followed**: [https://github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
 
