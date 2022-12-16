@@ -213,7 +213,7 @@ Spatio-Temporal :robot:
 
 This is a list of some repositories in which I collected notes for my future self while following courses/books. Note that in many cases the text is perfectly legible, but not edited; additionally, the original notes on a course/book might have been extended with other sources. For a complete list of the courses I have followed (with or without public notes), visit [my course compilation](https://github.com/mxagar/course_compilation).
 
-| <div style="width:500px" align="left">Course / Book + Link</div>  | <div align="left">My Personal Notes | <div align="left">My Personal Rating |
+| <div style="width:400px" align="left">Course / Book + Link</div>  | <div align="left">My Notes | <div align="left" style="width:120px">My Personal Rating |
 | --- | --- | --- |
 [Deep Learning Nanodegree, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | :star: :star: :star: :star: __ |
 | [Computer Vision Nanodegree, Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | :star: :star: :star: __ __ |
