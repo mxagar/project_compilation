@@ -22,7 +22,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/OqWwkPrrcII">
-            <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG">
+            <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG"
+            width=200>
             </a>
         </p>
     </td>
@@ -38,7 +39,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/marxNRb4e-c">
-            <img src="./assets/sagardia_car_assembly.jpg" alt="Virtual Car Assembly">
+            <img src="./assets/sagardia_car_assembly.jpg" alt="Virtual Car Assembly"
+            width=200>
             </a>
         </p>
     </td>
@@ -54,7 +56,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/D9Jbew5Zmpw">
-            <img src="./assets/sagardia_space_justin_vroos.jpg" alt="Real and Virtual Robotic Satellite Maintenance">
+            <img src="./assets/sagardia_space_justin_vroos.jpg" alt="Real and Virtual Robotic Satellite Maintenance"
+            width=200>
             </a>
         </p>
     </td>
@@ -70,7 +73,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/Fsb0f1t4IbE">
-            <img src="./assets/sagardia_bunny_teapot_datastrucs.jpg" alt="Real Time Collision Computation Physics">
+            <img src="./assets/sagardia_bunny_teapot_datastrucs.jpg" alt="Real Time Collision Computation Physics"
+            width=200>
             </a>
         </p>
     </td>
@@ -86,7 +90,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/En_IXwSNVco">
-            <img src="./assets/sagardia_vr_vs_reality.jpg" alt="Virtual vs. Real Assemblies User Study">
+            <img src="./assets/sagardia_vr_vs_reality.jpg" alt="Virtual vs. Real Assemblies User Study"
+            width=200>
             </a>
         </p>
     </td>
@@ -102,7 +107,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://youtu.be/1yoU1f_zwiY">
-            <img src="./assets/sagardia_ultrapiano.jpg" alt="The Ultrapiano: Hand Manipulation with Ultrasound">
+            <img src="./assets/sagardia_ultrapiano.jpg" alt="The Ultrapiano: Hand Manipulation with Ultrasound"
+            width=200>
             </a>
         </p>
     </td>
@@ -117,7 +123,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://ieeexplore.ieee.org/abstract/document/7487125">
-            <img src="./assets/sagardia_peginhole_sequence.jpg" alt="Robot Assemblies with Support Online Simulations">
+            <img src="./assets/sagardia_peginhole_sequence.jpg" alt="Robot Assemblies with Support Online Simulations"
+            width=200>
             </a>
         </p>
     </td>
@@ -133,7 +140,8 @@ This repository compiles links to some of the projects I have worked on or I am 
     <td>
         <p align="center">
             <a href="https://mediatum.ub.tum.de/?id=1463136">
-            <img src="./assets/sagardia_phd_summary.jpg" alt="PhD Thesis">
+            <img src="./assets/sagardia_phd_summary.jpg" alt="PhD Thesis"
+            width=200>
             </a>
         </p>
     </td>
