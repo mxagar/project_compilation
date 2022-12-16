@@ -213,6 +213,24 @@ Spatio-Temporal :robot:
 
 This is a list of some repositories in which I collected notes for my future self while following courses/books. Note that in many cases the text is perfectly legible, but not edited; additionally, the original notes on a course/book might have been extended with other sources. For a complete list of the courses I have followed (with or without public notes), visit [my course compilation](https://github.com/mxagar/course_compilation).
 
+| <div style="width:500px" align="left">Course / Book + Link</div>  | <div align="left">My Personal Notes | <div align="left">My Personal Rating |
+| --- | --- | --- |
+[Deep Learning Nanodegree, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | :star: :star: :star: :star: __ |
+| [Computer Vision Nanodegree, Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | :star: :star: :star: __ __ |
+| [Data Science Nanodegree, Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | [Guide & Code](https://github.com/mxagar/data_science_udacity) | :star: :star: :star: :star: __ |
+| [Machine Learning DevOps Engineer Nanodegree, Udacity](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | [Guide & Code](https://github.com/mxagar/mlops_udacity) | :star: :star: :star: :star: :star: |
+| [IBM Machine Learning Professional Certificate, Coursera / IBM](https://www.coursera.org/professional-certificates/ibm-machine-learning) | [Guide & Code](https://github.com/mxagar/machine_learning_ibm) | :star: :star: :star: :star: __ |
+| [Machine Learning, Coursera / Univ. Standford](https://www.coursera.org/learn/machine-learning) | [Guide & Code](https://github.com/mxagar/machine_learning_coursera) | :star: :star: :star: :star: :star: |
+| [Statistics with Python Specialization, Coursera / Uni. Michigan](https://www.coursera.org/specializations/statistics-with-python) | [Guide & Code](https://github.com/mxagar/statistics_with_python_coursera)  | :star: :star: :star: __ __ |
+| [Accelerated Computer Science Fundamentals Specialization, Coursera / Univ. Illinois](https://www.coursera.org/specializations/cs-fundamentals) | [Guide & Code](https://github.com/mxagar/accelerated_computer_science_coursera) | :star: :star: :star: __ __ |
+| [Machine Vision: Theory and Applications, Steger et al.](https://www.amazon.com/Machine-Vision-Algorithms-Applications-Carsten/dp/3527413650) | [Guide & Code](https://github.com/mxagar/machine_vision_notes) | :star: :star: :star: :star: :star: |
+| [Notes on Manipulation Robotics, Craig](https://www.amazon.com/Introduction-Robotics-Mechanics-Control-4th/dp/0133489795/ref=sr_1_1?crid=2Q39F2ZXG1D2W&keywords=Introduction+to+Robotics&qid=1664796958&qu=eyJxc2MiOiIyLjYyIiwicXNhIjoiMi42OCIsInFzcCI6IjMuMDkifQ%3D%3D&sprefix=introduction+to+robotics%2Caps%2C144&sr=8-1) | [Guide](https://github.com/mxagar/robotics_notes) | :star: :star: :star: :star: __ |
+| [Natural Language Processing (NLP) Guide, Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | [Guide & Code](https://github.com/mxagar/nlp_guide) | :star: :star: :star: :star: __ |
+| [Notes on Reinforcement Learning, Udemy](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | :star: :star: :star: __ __ |
+| [SQL Guide, Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Guide & Code](https://github.com/mxagar/sql_guide) | :star: :star: :star: :star: __ |
+| [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
+
+<!--
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
 - Computer Vision Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | [Course Link](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | :star: :star: :star: __ __
 - Data Science Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/data_science_udacity) | [Course Link](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | :star: :star: :star: :star: __
@@ -227,6 +245,7 @@ This is a list of some repositories in which I collected notes for my future sel
 - Notes on Reinforcement Learning, Udemy: [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | [Course Link](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | :star: :star: :star: __ __
 - SQL Guide, Udemy: [Guide & Code](https://github.com/mxagar/sql_guide) | [Course Link](https://www.udemy.com/course/the-complete-sql-bootcamp/) | :star: :star: :star: :star: __
 - Docker Guide, Udemy: [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | [Course Link](https://www.udemy.com/course/docker-mastery/) | :star: :star: :star: :star: __
+-->
 
 ## Other Projects
 
