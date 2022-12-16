@@ -12,14 +12,14 @@ This repository compiles links to some of the projects I have worked on or I am 
 
 <table>
 <tr>
-    <td width=180>
+    <td width=200>
         Realtime Collision Avoidance for Robots with Arbitrary Geometries
     </td>
-    <td width=40>
+    <td width=100>
         <a href="https://youtu.be/OqWwkPrrcII">Video</a>,
         <a href="https://ieeexplore.ieee.org/document/8446527">Paper</a>
     </td>
-    <td>
+    <td width=300>
         <p align="center">
             <a href="https://youtu.be/OqWwkPrrcII">
             <img src="./assets/sagardia_HUG_robot.jpg" alt="Collision Avoidance HUG"
