@@ -179,6 +179,7 @@ Please, note that these are some of my *side* projects, which might or might not
 | Simultaneous Localization and Mapping (SLAM) in 2D Using a Graph-Based Approach | [Github](https://github.com/mxagar/slam_2d) | Tabular :bar_chart:, Spatio-Temporal  :robot: | SLAM | Numpy |
 | Predicting Bike Sharing Patterns with Neural Networks Written from Scratch with Numpy | [Github](https://github.com/mxagar/deep-learning-v2-pytorch/tree/master/project-bikesharing) | Tabular :bar_chart: | MLP, Regression | Numpy |
 | A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular :bar_chart:, Text :page_facing_up: | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
+| Data Analysis and Modelling of an Expert and Project Matching Case | [Github](https://github.com/mxagar/expert_chase) | Tabular :bar_chart: | *Guide*: EDA, Regression, Classification, Hypothesis Testing | Scikit-Learn, Pandas, Matplotlib, etc. |
 | Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch | [Github](https://github.com/mxagar/detection_segmentation_pytorch) | Images :city_sunrise: | *Compilation*: Object Detection & Segmentation | Pytorch |
 | Text Sentiment Analysis: A Collection of Notes and Example | [Github](https://github.com/mxagar/text_sentiment) | Text :page_facing_up: | *Compilation*: Sentiment Analysis | Pytorch |
 
