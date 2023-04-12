@@ -185,7 +185,7 @@ Please, note that these are some of my *side* projects, which might or might not
 | Analysis and Modelling of an Expert and Project Matching Dataset | [Github](https://github.com/mxagar/expert_chase) | Tabular :bar_chart: | EDA, Hypothesis Testing, Classification, Regression | Pandas, Scipy, Scikit-Learn, Matplotlib, etc. |
 | A 80/20 Guide for Exploratory Data Analysis, Data Cleaning and Feature Engineering | [Blog](https://mikelsagardia.io/blog/data-processing-guide.html), [Github](https://github.com/mxagar/eda_fe_summary) | Tabular :bar_chart:, Text :page_facing_up: | *Guide*: EDA, Regression, Classification, Unsupervised Learning, Pipelines | Scikit-Learn, Pandas, Matplotlib, etc. |
 | Beyond Image Classification: Object Detection and Semantic Segmentation Examples with Pytorch | [Github](https://github.com/mxagar/detection_segmentation_pytorch) | Images :city_sunrise: | *Compilation*: Object Detection & Segmentation | Pytorch |
-| Text Sentiment Analysis: A Collection of Notes and Example | [Github](https://github.com/mxagar/text_sentiment) | Text :page_facing_up: | *Compilation*: Sentiment Analysis | Pytorch |
+| Text Sentiment Analysis: A Collection of Notes and Examples | [Github](https://github.com/mxagar/text_sentiment) | Text :page_facing_up: | *Compilation*: Sentiment Analysis | Pytorch |
 
 <!-- 
 Text :page_facing_up: :page_facing_up:
@@ -233,6 +233,7 @@ This is a list of some repositories in which I collected notes for my future sel
 | [Natural Language Processing (NLP) Guide, Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | [Guide & Code](https://github.com/mxagar/nlp_guide) | :star: :star: :star: :star: __ |
 | [Notes on Reinforcement Learning, Udemy](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | :star: :star: :star: __ __ |
 | [SQL Guide, Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Guide & Code](https://github.com/mxagar/sql_guide) | :star: :star: :star: :star: __ |
+| Spark Guide, [Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [Datacamp](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark) | [Guide & Code](https://github.com/mxagar/spark_big_data_guide) | :star: :star: :star: :star: __ |
 | [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
 
 <!--
