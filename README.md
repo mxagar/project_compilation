@@ -236,9 +236,8 @@ This is a list of some repositories in which I collected notes for my future sel
 | [Object Detection and Semantic Segmentation Guide, PyImageSearch](https://pyimagesearch.com/pyimagesearch-university/) | [Guide & Code](https://github.com/mxagar/detection_segmentation_pytorch) | :star: :star: :star: :star: __ |
 | [Notes on Reinforcement Learning, Udemy](https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/) | [Guide & Code](https://github.com/mxagar/data_science_python_tools/blob/main/24_ReinforcementLearning/ReinforcementLearning_Guide.md) | :star: :star: :star: __ __ |
 | [SQL Guide, Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Guide & Code](https://github.com/mxagar/sql_guide) | :star: :star: :star: :star: __ |
-| Spark Guide, [Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [Datacamp](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark) | [Guide & Code](https://github.com/mxagar/spark_big_data_guide) | :star: :star: :star: :star: __ |
-| [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
 | Big Data and Spark Guide, [Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [Datacamp](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark) | [Guide & Code](https://github.com/mxagar/spark_big_data_guide) | :star: :star: :star: :star: __ |
+| [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
 
 <!--
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
