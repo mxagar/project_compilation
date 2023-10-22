@@ -5,8 +5,10 @@ This repository compiles links to some of the projects I have worked on or I am 
 - :mortar_board: [Some Public Research Projects](#some-public-research-projects)
 - :soccer: [Some Side Projects](#some-side-projects)
 - :books: [Some of My Guides on AI MOOCs and Books](#some-of-my-guides-on-ai-moocs-and-books)
-<!-- - :space_invader: [Other Projects](#other-projects)-->
 - :mailbox: [Contact and Other Information](#contact-and-other-information)
+<!--
+- :space_invader: [Other Projects](#other-projects)
+-->
 
 ## Some Public Research Projects
 
