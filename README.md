@@ -166,6 +166,7 @@ Please, note that these are some of my *side* projects, which might or might not
 
 | Topic / Project | Link | Type of Data | Methods | Tools |
 |---|---|---|---|---|
+| Generating Image Vector Representations Using *SimCLR* | [Github](https://github.com/mxagar/simclr_pytorch_flowers) | Images :city_sunrise: | Contrastive Learning, CNN | Pytorch & Pytorch Lightning, Tensorboard |
 | Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images :city_sunrise: | GAN, CNN | Pytorch |
 | Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images :city_sunrise:, Text :page_facing_up: | CNN, RNN, Image Captioning | Pytorch |
 | Facial Keypoint Detection with Deep Convolutional Neural Networks (CNNs) | [Github](https://github.com/mxagar/P1_Facial_Keypoints) | Images :city_sunrise: | CNN, Regression | Pytorch |
