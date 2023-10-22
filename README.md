@@ -5,7 +5,9 @@ This repository compiles links to some of the projects I have worked on or I am 
 - :mortar_board: [Some Public Research Projects](#some-public-research-projects)
 - :soccer: [Some Side Projects](#some-side-projects)
 - :books: [Some of My Guides on AI MOOCs and Books](#some-of-my-guides-on-ai-moocs-and-books)
+<!--
 - :space_invader: [Other Projects](#other-projects)
+-->
 - :mailbox: [Contact and Other Information](#contact-and-other-information)
 
 ## Some Public Research Projects
@@ -256,10 +258,12 @@ This is a list of some repositories in which I collected notes for my future sel
 - Docker Guide, Udemy: [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | [Course Link](https://www.udemy.com/course/docker-mastery/) | :star: :star: :star: :star: __
 -->
 
+<!--
 ## Other Projects
 
 - [datamix.ai](https://datamix.ai)
 - [machinevision.academy](https://machinevision.academy)
+-->
 
 ## Contact and Other Information
 
