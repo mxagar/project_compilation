@@ -241,6 +241,8 @@ This is a list of some repositories in which I collected notes for my future sel
 | [SQL Guide, Udemy](https://www.udemy.com/course/the-complete-sql-bootcamp/) | [Guide & Code](https://github.com/mxagar/sql_guide) | :star: :star: :star: :star: __ |
 | Big Data and Spark Guide, [Udacity](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) and [Datacamp](https://app.datacamp.com/learn/skill-tracks/big-data-with-pyspark) | [Guide & Code](https://github.com/mxagar/spark_big_data_guide) | :star: :star: :star: :star: __ |
 | [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
+| [Azure Guide (AZ900), Udemy](https://www.udemy.com/course/az900-azure/) | [Guide & Code](https://github.com/mxagar/azure_guide) | :star: :star: :star: :star: __ |
+| [MLflow Guide, Udemy](https://www.udemy.com/course/mlflow-course) | [Guide & Code](https://github.com/mxagar/mlflow_guide) | :star: :star: :star: :star: __ |
 
 <!--
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
