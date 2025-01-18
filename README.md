@@ -166,6 +166,8 @@ Please, note that these are some of my *side* projects, which might or might not
 
 | Topic / Project | Link | Type of Data | Methods | Tools |
 |---|---|---|---|---|
+| A Retrieval-Augmented Generation (RAG) Chatbot Deployed Using Azure OpenAI Services | [Github](https://github.com/mxagar/azure-rag-app) | Text :page_facing_up: | LLMs, RAG, Retrieval, Azure Deployment | LangChain, FastAPI, Azure AI Search, Azure OpenAI, Azure Document Intelligence |
+| A Multi-Model Architecture for Machine Learning Services | [Github](https://github.com/mxagar/multimodal_ml_service) | Images :city_sunrise:, Text :page_facing_up:, Tabular :bar_chart: | Software Architecture (Domain-Driven Design), Design Patterns, Machine Learning Pipelines, MLOps | Pytorch, Scikit-Learn, ONNX, LabelStudio, AWS S3, MLflow, Pytest |
 | Generating Image Vector Representations Using *SimCLR* | [Github](https://github.com/mxagar/simclr_pytorch_flowers) | Images :city_sunrise: | Contrastive Learning, CNN | Pytorch & Pytorch Lightning, Tensorboard |
 | Face Generation with a Convolutional Generative Adversarial Network (GAN) | [Github](https://github.com/mxagar/face_generator_gan) | Images :city_sunrise: | GAN, CNN | Pytorch |
 | Image Captioning: Image Description Text Generator Combining CNNs and RNNs | [Github](https://github.com/mxagar/image_captioning) | Images :city_sunrise:, Text :page_facing_up: | CNN, RNN, Image Captioning | Pytorch |
@@ -224,7 +226,9 @@ This is a list of some repositories in which I collected notes for my future sel
 
 | <div align="left">Course / Book + Link</div>  | <div style="width:150px" align="left">My Notes | <div align="left" style="width:120px">My Personal Rating |
 | --- | --- | --- |
-[Deep Learning Nanodegree, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | :star: :star: :star: :star: __ |
+[Generative AI Nanodegree, Udacity](https://www.udacity.com/course/generative-ai--nd608) | [Guide & Code](https://github.com/mxagar/generative_ai_udacity) | :star: :star: :star: :star: __ |
+| [Natural Language Processing with Transformers, O'Reilly Book by Lewis Tunstall, Leandro von Werra, Thomas Wolf](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/) | [Guide & Code](https://github.com/mxagar/nlp_with_transformers_nbs) | :star: :star: :star: :star: :star: |
+| [Deep Learning Nanodegree, Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | :star: :star: :star: :star: __ |
 | [Computer Vision Nanodegree, Udacity](https://www.udacity.com/course/computer-vision-nanodegree--nd891) | [Guide & Code](https://github.com/mxagar/computer_vision_udacity) | :star: :star: :star: __ __ |
 | [Machine Learning DevOps Engineer Nanodegree, Udacity](https://www.udacity.com/course/machine-learning-dev-ops-engineer-nanodegree--nd0821) | [Guide & Code](https://github.com/mxagar/mlops_udacity) | :star: :star: :star: :star: __ |
 | [IBM Machine Learning Professional Certificate, Coursera / IBM](https://www.coursera.org/professional-certificates/ibm-machine-learning) | [Guide & Code](https://github.com/mxagar/machine_learning_ibm) | :star: :star: :star: :star: __ |
@@ -232,7 +236,7 @@ This is a list of some repositories in which I collected notes for my future sel
 | [Statistics with Python Specialization, Coursera / Uni. Michigan](https://www.coursera.org/specializations/statistics-with-python) | [Guide & Code](https://github.com/mxagar/statistics_with_python_coursera)  | :star: :star: :star: __ __ |
 | [Data Science Nanodegree, Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025) | [Guide & Code](https://github.com/mxagar/data_science_udacity) | :star: :star: :star: :star: __ |
 | [Accelerated Computer Science Fundamentals Specialization, Coursera / Univ. Illinois](https://www.coursera.org/specializations/cs-fundamentals) | [Guide & Code](https://github.com/mxagar/accelerated_computer_science_coursera) | :star: :star: :star: __ __ |
-| [Machine Vision: Theory and Applications, Steger et al.](https://www.amazon.com/Machine-Vision-Algorithms-Applications-Carsten/dp/3527413650) | [Guide & Code](https://github.com/mxagar/machine_vision_notes) | :star: :star: :star: :star: :star: |
+| [Machine Vision: Theory and Applications, Book by Steger et al.](https://www.amazon.com/Machine-Vision-Algorithms-Applications-Carsten/dp/3527413650) | [Guide & Code](https://github.com/mxagar/machine_vision_notes) | :star: :star: :star: :star: :star: |
 | [Notes on Manipulation Robotics, Craig](https://www.amazon.com/Introduction-Robotics-Mechanics-Control-4th/dp/0133489795/ref=sr_1_1?crid=2Q39F2ZXG1D2W&keywords=Introduction+to+Robotics&qid=1664796958&qu=eyJxc2MiOiIyLjYyIiwicXNhIjoiMi42OCIsInFzcCI6IjMuMDkifQ%3D%3D&sprefix=introduction+to+robotics%2Caps%2C144&sr=8-1) | [Guide](https://github.com/mxagar/robotics_notes) | :star: :star: :star: :star: __ |
 | [Natural Language Processing (NLP) Guide, Udemy](https://www.udemy.com/course/nlp-natural-language-processing-with-python/) | [Guide & Code](https://github.com/mxagar/nlp_guide) | :star: :star: :star: :star: __ |
 | [Hyperparameter Optimization Guide, Udemy](https://www.udemy.com/course/hyperparameter-optimization-for-machine-learning/) | [Guide & Code](https://github.com/mxagar/hyperparameter-optimization) | :star: :star: :star: :star: __ |
@@ -243,7 +247,9 @@ This is a list of some repositories in which I collected notes for my future sel
 | [Docker Guide, Udemy](https://www.udemy.com/course/docker-mastery/) | [Guide & Code](https://github.com/mxagar/templates/blob/master/docker_swarm_kubernetes/docker_swarm_kubernetes_howto.md) | :star: :star: :star: :star: __ |
 | [Azure Guide (AZ900), Udemy](https://www.udemy.com/course/az900-azure/) | [Guide & Code](https://github.com/mxagar/azure_guide) | :star: :star: :star: :star: __ |
 | [MLflow Guide, Udemy](https://www.udemy.com/course/mlflow-course) | [Guide & Code](https://github.com/mxagar/mlflow_guide) | :star: :star: :star: :star: __ |
-| [Elasticseacrh Guide, Udemy](https://www.udemy.com/course/elasticsearch-complete-guide) | [Guide & Code](https://github.com/mxagar/elastic_search_guide) | :star: :star: :star: :star: __ |
+| [Elasticsearch Guide, Udemy](https://www.udemy.com/course/elasticsearch-complete-guide) | [Guide & Code](https://github.com/mxagar/elastic_search_guide) | :star: :star: :star: :star: __ |
+| [Operationalizing LLMs on Azure, Coursera / Univ. Duke](https://www.coursera.org/learn/llmops-azure) | [Guide & Code](https://github.com/mxagar/generative_ai_udacity/tree/main/06_RAGs_DeepDive/02_Azure_LLMs) | :star: :star: :star: :star: __ |
+
 
 <!--
 - Deep Learning Nanodegree, Udacity: [Guide & Code](https://github.com/mxagar/deep_learning_udacity) | [Course Link](https://www.udacity.com/course/deep-learning-nanodegree--nd101) | :star: :star: :star: :star: __ 
@@ -277,6 +283,5 @@ For more information, you can visit:
 
 - My **website/blog**: [https://mikelsagardia.io](https://mikelsagardia.io)
 - The list of my **research papers**: [https://mikelsagardia.io/publications](https://mikelsagardia.io/publications)
-- My **curriculum vitae**: [https://mikelsagardia.io/assets/MikelSagardia_CV.pdf](https://mikelsagardia.io/assets/MikelSagardia_CV.pdf)
+- My **Curriculum Vitae (CV)**: [https://mikelsagardia.io/assets/MikelSagardia_CV.pdf](https://mikelsagardia.io/assets/MikelSagardia_CV.pdf)
 - A list of **repositories on books and courses I have followed**: [https://github.com/mxagar/course_compilation](https://github.com/mxagar/course_compilation)
-
